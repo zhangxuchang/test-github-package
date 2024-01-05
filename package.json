@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/zhangxuchang/test-github-package/issues"
   },
-  "homepage": "https://github.com/zhangxuchang/test-github-package#readme"
+  "homepage": "https://github.com/zhangxuchang/test-github-package#readme",
+  "publishConfig": {
+    "@zhangxuchang:registry": "https://npm.pkg.github.com"
+  }
 }
