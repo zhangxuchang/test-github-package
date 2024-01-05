@@ -1,0 +1,19 @@
+{
+  "name": "@zhangxuchang/test-github-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "echo 'hello world this is a test package'",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangxuchang/test-github-package.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangxuchang/test-github-package/issues"
+  },
+  "homepage": "https://github.com/zhangxuchang/test-github-package#readme"
+}
